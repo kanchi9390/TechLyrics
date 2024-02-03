@@ -27,6 +27,12 @@
 
     /src/app.js
     /src/app.css
+    /src/components/Header/index.js
+    /src/components/Header/index.css
+    /src/components/LandingPageBody/index.js
+    /src/components/LandingPageBody/index.css
+    /src/components/Footer/index.js
+    /src/components/Footer/index.css
 
 ### Third-party packages
 
