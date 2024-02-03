@@ -1,13 +1,14 @@
-import logo from './logo.svg';
+import Header from './components/Header'
+import LandingPageBody from './components/LandingPageBody';
+import Footer from './components/Footer'
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>hi hello</h1>
-      </header>
+    <div className='raft-landing-page'>
+      <Header/>
+      <LandingPageBody/>
+      <Footer/>
     </div>
   );
 }
